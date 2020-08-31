@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/huyhue/quanlibaiviet/static/js/main.fd957f1f.chunk.js",
+    "main.js.map": "/huyhue/quanlibaiviet/static/js/main.fd957f1f.chunk.js.map",
+    "runtime-main.js": "/huyhue/quanlibaiviet/static/js/runtime-main.b8202443.js",
+    "runtime-main.js.map": "/huyhue/quanlibaiviet/static/js/runtime-main.b8202443.js.map",
+    "static/css/2.c6bca3f3.chunk.css": "/huyhue/quanlibaiviet/static/css/2.c6bca3f3.chunk.css",
+    "static/js/2.4ca58147.chunk.js": "/huyhue/quanlibaiviet/static/js/2.4ca58147.chunk.js",
+    "static/js/2.4ca58147.chunk.js.map": "/huyhue/quanlibaiviet/static/js/2.4ca58147.chunk.js.map",
+    "index.html": "/huyhue/quanlibaiviet/index.html",
+    "precache-manifest.99e994ea4ca4822b14986152b8ad272b.js": "/huyhue/quanlibaiviet/precache-manifest.99e994ea4ca4822b14986152b8ad272b.js",
+    "service-worker.js": "/huyhue/quanlibaiviet/service-worker.js",
+    "static/css/2.c6bca3f3.chunk.css.map": "/huyhue/quanlibaiviet/static/css/2.c6bca3f3.chunk.css.map",
+    "static/js/2.4ca58147.chunk.js.LICENSE.txt": "/huyhue/quanlibaiviet/static/js/2.4ca58147.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8202443.js",
+    "static/css/2.c6bca3f3.chunk.css",
+    "static/js/2.4ca58147.chunk.js",
+    "static/js/main.fd957f1f.chunk.js"
+  ]
+}
